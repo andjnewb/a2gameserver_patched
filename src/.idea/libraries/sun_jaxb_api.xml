@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sun.jaxb.api" type="repository">
+    <properties maven-id="sun-jaxb:jaxb-api:2.1.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/sun-jaxb/jaxb-api/2.1.4/jaxb-api-2.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jrxtx">
+    <CLASSES>
+      <root url="file://$USER_HOME$/temp/jrxtx" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/temp/jrxtx/docs/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/temp/jrxtx/gnu-io/src/main/java" />
+      <root url="file://$USER_HOME$/temp/jrxtx/gnu-io/src/test/java" />
+      <root url="file://$USER_HOME$/temp/jrxtx/jrxtx/src/main/java" />
+      <root url="file://$USER_HOME$/temp/jrxtx/jrxtx/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
